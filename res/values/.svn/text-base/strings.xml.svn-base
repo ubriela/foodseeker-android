@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">CSCI587</string>
+	<!--Hien Desktop -->
+	<!-- <string name="maps_api_key">0QyvEJhHTXQC-UNAs_a38sLbupp-I1TykfAifng</string> -->
+
+	<!--Hien Laptop Win7 -->
+	<!-- <string name="maps_api_key">0jbMsykpKaNKwIrgTVvr5YxL8qK2MIH8cepvrdA</string> -->
+
+	<!--Hien Laptop Mac -->
+	<string name="maps_api_key">0QyvEJhHTXQBx0OzB0Aw8br6C-hoxMwmImGS1xQ</string>
+	
+	<string name="zoomToUSCOnClick">zoomToUSC</string>
+	<string name="showLayerListOnClick">showLayerList</string>
+	<string name="center_usc">Center on USC</string>
+	<string name="my_location">My Location</string>
+	<string name="friends">Friends</string>
+	<string name="camera">Camera</string>
+	<string name="layers">Layers</string>
+	<string name="search">Search</string>
+	<string name="event">Event</string>
+	<string name="exit">Exit</string>
+	<string name="about">About</string>
+	<string name="hello">Hello</string>
+	<string name="settings">Settings</string>
+	<string name="social">Social</string>
+
+	<string name="event_title">USC Events</string>
+	<string name="social_title">Social media</string>
+	<string name="about_title">About</string>
+
+	<string name="locationSelectionFieldOnClick">locationSelectionFieldOnClick</string>
+	<string name="locationSelectionOkOnClick">onOkClick</string>
+	<string name="showFacebookOnClick">showFacebook</string>
+	<string name="locationSelectionCancelOnClick">onCancelClick</string>
+	<string name="useMockLocation">false</string>
+	<string name="mockLocationLat">34.0225096780457</string>
+	<string name="mockLocationLon">-118.284359926051</string>
+	<string name="minDistLocationUpdate">5</string>
+	<string name="minTimeLocationUpdates">15</string>
+
+
+	<string name="request">Request!</string>
+	<string name="upload">Upload Photo</string>
+	<string name="post">Wall Post!</string>
+	<string name="delete">Delete Post</string>
+	<string name="layers2">Layers</string>
+
+	<string name="dialog_multi_choice">Layers</string>
+	<string name="dialog_multi_choice_ok">OK</string>
+	<string name="dialog_multi_choice_cancel">Cancel</string>
+
+</resources>

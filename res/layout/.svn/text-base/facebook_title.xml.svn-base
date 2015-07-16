@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" android:layout_width="fill_parent"
+	android:layout_height="35dip" android:gravity="center_vertical"
+	android:paddingLeft="5dip" android:background="@color/title_background">
+
+
+	<com.facebook.android.LoginButton
+		android:id="@+id/login" android:src="@drawable/login_button"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="center_vertical" />
+
+	<!-- <Button android:id="@+id/accountButton" android:text="@string/account" -->
+	<!-- android:layout_width="wrap_content" android:layout_height="wrap_content" -->
+	<!-- android:textColor="@drawable/white" -->
+	<!-- android:textStyle="bold"/> -->
+
+	<TextView android:id="@+id/social_title" android:layout_width="wrap_content"
+		android:text="@string/app_name" android:textColor="@drawable/white"
+		android:layout_height="wrap_content" android:singleLine="true"
+		android:gravity="left" android:textStyle="bold" />
+
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_weight="1"
+		android:gravity="right|center_vertical" android:paddingRight="5dip">
+
+
+		<Button android:id="@+id/post" android:text="@string/post"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="@drawable/white" android:gravity="right"
+			android:textStyle="bold" />
+
+	</LinearLayout>
+
+</LinearLayout>

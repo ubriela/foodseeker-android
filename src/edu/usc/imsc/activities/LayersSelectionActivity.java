@@ -1,0 +1,195 @@
+package edu.usc.imsc.activities;
+
+import android.app.Activity;
+import android.app.ListActivity;
+import android.content.Context;
+import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.KeyEvent;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
+import android.widget.CompoundButton.OnCheckedChangeListener;
+import android.widget.ImageView;
+import android.widget.ListView;
+import android.widget.TextView;
+import edu.usc.imsc.R;
+import edu.usc.imsc.util.Tools;
+
+
+/**
+ * @author  linghu
+ */
+public class LayersSelectionActivity extends ListActivity {
+
+	private static String[] layerSelections;
+	private static boolean[] isLayerSelections;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setTitle("Options");
+		layerSelections = new String[Tools.LAYER_NUMBER];
+		isLayerSelections = new boolean[Tools.LAYER_NUMBER];
+		layerSelections = getIntent().getStringArrayExtra(Tools.MAP_LAYER_PARAM);
+		isLayerSelections = getIntent().getBooleanArrayExtra(Tools.MAP_LAYER_VALUE);
+	
+		setListAdapter(new LayerSelectionAdapter(this));
+	}
+	
+	
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		if (keyCode == KeyEvent.KEYCODE_BACK) {
+			Log.d(Tools.TAG,"onKeyDown()=KEYCODE_BACK");
+			Intent data = new Intent();
+			data.putExtra(Tools.MAP_LAYER_PARAM, layerSelections);
+			data.putExtra(Tools.MAP_LAYER_VALUE, isLayerSelections);
+			setResult(Activity.RESULT_OK, data);
+			finish();
+			return true;
+		}
+		return false;
+	}
+
+
+
+	@Override
+	protected void onPause() {
+		super.onPause();
+	}
+
+
+	
+	@Override
+	protected void onListItemClick(ListView l, View v, int position, long id) {
+		Log.d(Tools.TAG, "position "+position+" is clicked. id="+id);
+		super.onListItemClick(l, v, position, id);
+	}
+
+	private static class LayerSelectionAdapter extends BaseAdapter {
+        private LayoutInflater mInflater;
+        private Bitmap mIcon[] = new Bitmap[getCount()] ;
+
+        public LayerSelectionAdapter(Context context) {
+            // Cache the LayoutInflate to avoid asking for a new one each time.
+            mInflater = LayoutInflater.from(context);
+            
+            // Icons bound to the rows.
+            mIcon[0] = BitmapFactory.decodeResource(context.getResources(), R.drawable.buildings72);
+            mIcon[1] = BitmapFactory.decodeResource(context.getResources(), R.drawable.food_64);
+            mIcon[2] = BitmapFactory.decodeResource(context.getResources(), R.drawable.trajectory_64);
+        }
+
+        /**
+         * The number of items in the list is determined by the number of speeches
+         * in our array.
+         *
+         * @see android.widget.ListAdapter#getCount()
+         */
+        public int getCount() {
+            return layerSelections.length;
+        }
+
+        /**
+         * Since the data comes from an array, just returning the index is
+         * sufficent to get at the data. If we were using a more complex data
+         * structure, we would return whatever object represents one row in the
+         * list.
+         *
+         * @see android.widget.ListAdapter#getItem(int)
+         */
+        public Object getItem(int position) {
+            return position;
+        }
+
+        /**
+         * Use the array index as a unique id.
+         *
+         * @see android.widget.ListAdapter#getItemId(int)
+         */
+        public long getItemId(int position) {
+            return position;
+        }
+
+        /**
+         * Make a view to hold each row.
+         *
+         * @see android.widget.ListAdapter#getView(int, android.view.View,
+         *      android.view.ViewGroup)
+         */
+        public View getView(int position, View convertView, ViewGroup parent) {
+            // A ViewHolder keeps references to children views to avoid unnecessary calls
+            // to findViewById() on each row.
+            ViewHolder holder;
+            final int index = position;
+            // When convertView is not null, we can reuse it directly, there is no need
+            // to reinflate it. We only inflate a new View when the convertView supplied
+            // by ListView is null.
+            if (convertView == null) {
+                convertView = mInflater.inflate(R.layout.layers_selection, null);
+
+                // Creates a ViewHolder and store references to the two children views
+                // we want to bind data to.
+                holder = new ViewHolder();
+                holder.icon = (ImageView) convertView.findViewById(R.id.icon);
+                holder.text = (TextView) convertView.findViewById(R.id.text);
+                holder.checkbox = (CheckBox) convertView.findViewById(R.id.checkbox);
+                final CheckBox cbx = holder.checkbox;
+                convertView.setTag(holder);
+                convertView.setClickable(true);
+                convertView.setOnClickListener(new OnClickListener(){
+
+					@Override
+					public void onClick(View v) {
+						Log.d(Tools.TAG,"convertView.setOnClickListener is clicked");
+						cbx.setChecked(!cbx.isChecked());
+					}
+                	
+                });
+            } else {
+                // Get the ViewHolder back to get fast access to the TextView
+                // and the ImageView.
+                holder = (ViewHolder) convertView.getTag();
+                convertView.setClickable(true);
+            }
+
+            // Bind the data efficiently with the holder.
+            holder.text.setText(layerSelections[position]);
+            holder.icon.setImageBitmap(mIcon[position]);
+            if(isLayerSelections[position]) {
+	            boolean status = isLayerSelections[position];
+	           	holder.checkbox.setChecked(status);
+            }
+            holder.checkbox.setOnCheckedChangeListener(new OnCheckedChangeListener() {
+				@Override
+				public void onCheckedChanged(CompoundButton arg0, boolean arg1) {
+					Log.d(Tools.TAG,index +" checkbox.onCheckedChanged = "+arg1);
+					isLayerSelections[index] = arg1;
+				}
+            });
+            holder.checkbox.setOnClickListener(new OnClickListener(){
+				@Override
+				public void onClick(View v) {
+					Log.d(Tools.TAG,index + " checkbox.setOnClickListener = ");
+				}
+            	
+            });
+            return convertView;
+        }
+
+        //	ViewHolder store objects of each row
+        static class ViewHolder {
+        	ImageView icon;
+            TextView text;
+            CheckBox checkbox;
+        }
+    }
+}

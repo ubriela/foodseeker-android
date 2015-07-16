@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	
+	<string-array name="mapLayerTypes">
+		<item name="street">Street view</item>
+		<item name="satellite">Satellite</item>
+		<item name="traffic">Traffic</item>
+	</string-array>
+</resources>

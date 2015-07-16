@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/my_location" android:title="@string/my_location"
+		android:icon="@drawable/ic_menu_mylocation" />
+	<item android:id="@+id/search" android:title="@string/search"
+		android:icon="@drawable/ic_menu_search_64"></item>
+	<item android:icon="@drawable/ic_menu_social_64" android:title="@string/social"
+		android:id="@+id/social" />
+	<item android:id="@+id/layers" android:icon="@drawable/ic_menu_layers2"
+		android:title="@string/layers2"></item>
+	<item android:id="@+id/about" android:title="@string/about"
+		android:icon="@drawable/ic_menu_about_64"></item>
+	<item android:id="@+id/exit" android:title="@string/exit"
+		android:icon="@drawable/ic_menu_exit" />
+
+</menu>

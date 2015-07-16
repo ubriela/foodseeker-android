@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+
+	<com.google.android.maps.MapView
+		xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/mapview"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:clickable="true" android:apiKey="@string/maps_api_key"
+		android:layout_below="@+id/MapViewWidgetsLayout" />
+
+	<Button android:layout_width="wrap_content"
+		android:layout_height="64px" android:drawableBottom="@drawable/ic_menu_home"
+		android:id="@+id/ZoomToUSCButton" android:onClick="@string/zoomToUSCOnClick"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true"></Button>
+
+	<Button android:layout_width="wrap_content"
+		android:layout_height="64px" android:drawableBottom="@drawable/ic_menu_layers"
+		android:id="@+id/OpenLayersButton" android:onClick="@string/showLayerListOnClick"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentLeft="true"></Button>
+
+		
+	<AutoCompleteTextView android:id="@+id/autocomplete_map"
+		android:layout_width="fill_parent" android:layout_height="48px"
+		android:layout_alignParentTop="true" android:layout_alignParentLeft="true"
+		android:visibility="invisible" android:layout_marginTop="48dip" />
+
+	<Button android:layout_width="wrap_content"
+		android:layout_height="48px" android:drawableBottom="@drawable/ic_menu_fb_48"
+		android:id="@+id/FacebookButton" android:onClick="@string/showFacebookOnClick"
+		android:layout_alignParentTop="true" android:layout_alignParentRight="true"
+		android:visibility="invisible"></Button>
+
+	<Button android:layout_width="wrap_content"
+		android:layout_height="48px" android:drawableBottom="@drawable/cake_48"
+		android:id="@+id/FoodTabsButton" android:onClick="@string/showFoodTabsOnClick"
+		android:layout_alignParentTop="true" android:layout_alignParentLeft="true"></Button>
+	<SeekBar android:id="@+id/seek" android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:max="10"
+		android:progress="5" android:secondaryProgress="5"
+		android:visibility="invisible" />
+</RelativeLayout>

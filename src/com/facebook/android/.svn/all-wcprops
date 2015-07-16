@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android
+END
+DialogError.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/DialogError.java
+END
+SessionEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/SessionEvents.java
+END
+BaseDialogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/BaseDialogListener.java
+END
+LoginButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/LoginButton.java
+END
+SessionStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/SessionStore.java
+END
+Facebook.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/Facebook.java
+END
+FbDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/FbDialog.java
+END
+AsyncFacebookRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/AsyncFacebookRunner.java
+END
+BaseRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/BaseRequestListener.java
+END
+FacebookError.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/FacebookError.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/icampus/!svn/ver/298/FoodSeeker/src/com/facebook/android/Util.java
+END

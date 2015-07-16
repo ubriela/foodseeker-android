@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+	<Placemark>
+		<id>1080</id>
+		<name>Hedco Chemical Engineering</name>
+		<shortName>HED</shortName>
+		<lat>34.0202629261066</lat>
+		<lon>-118.28905897388</lon>
+		<address>925 Bloom Walk</address>
+		<department>
+			<name>Petroleum &amp; Chemical Engineering</name>
+			<website>http://chems.usc.edu/</website>
+			<location>Room 216</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1081</id>
+		<name>Neely Petroleum Engineering</name>
+		<shortName>PCE</shortName>
+		<lat>34.0201008423196</lat>
+		<lon>-118.288734663832</lon>
+		<address>923 Bloom Walk</address>
+		<department>
+			<name>Petroleum &amp; Chemical Engineering</name>
+			<website>http://chems.usc.edu/</website>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1000</id>
+		<name>Seaver Science Library</name>
+		<shortName>SSL</shortName>
+		<lat>34.019578861023</lat>
+		<lon>-118.288675940292</lon>
+		<address>910 Bloom Walk</address>
+		<description>The Science &amp; Engineering Library provides resources for the life sciences, earth sciences, physical sciences, mathematics and engineering.</description>
+	</Placemark>
+	<Placemark>
+		<id>1086</id>
+		<name>Vivian Hall</name>
+		<shortName>VHE</shortName>
+		<lat>34.0201575291771</lat>
+		<lon>-118.288158809561</lon>
+		<address>3651 Watt Way</address>
+		<description>Vivian Hall is home to programs of the USC Viterbi School of Engineering, including materials science and the Merwyn C. Gill Foundation Composites Center.</description>
+		<department>
+			<name>Materials Science &amp; Engineering</name>
+			<website>http://chems.usc.edu/</website>
+			<location>Room 602</location>
+		</department>
+		<department>
+			<name>Electrical Engineering and Electrophysics</name>
+			<website>http://ee.usc.edu/</website>
+			<location>Room 314</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1093</id>
+		<name>Hedco Neurosciences Building</name>
+		<shortName>HNB</shortName>
+		<lat>34.0207417532695</lat>
+		<lon>-118.287796913766</lon>
+		<address>3641 Watt Way</address>
+		<department>
+			<name>Biological Sciences (Neurobiology)</name>
+			<website>http://dornsife.usc.edu/bisc/home/</website>
+			<location>Room 101</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1095</id>
+		<name>Rapp Engineering Building</name>
+		<shortName>RRB</shortName>
+		<lat>34.0200665048497</lat>
+		<lon>-118.287410837236</lon>
+		<address>854 Downey Way</address>
+		<department>
+			<name>Department of Astronautical Engineering (Astronautics &amp; Space Technology Division)</name>
+			<website>http://astronautics.usc.edu/</website>
+			<location>Room 230</location>
+		</department>
+	</Placemark>
+
+	<Placemark>
+		<id>1039</id>
+		<name>Lindhurst Fine Arts Gallery</name>
+		<shortName>WAH</shortName>
+		<lat>34.0191440731458</lat>
+		<lon>-118.2879368566</lon>
+		<address>850 Bloom Walk</address>
+		<website>http://roski.usc.edu/calendar/lindhurst.html</website>
+		<description>Located on the first floor of Watt Hall, the Lindhurst Fine Arts Gallery offers weekly thematic exhibits of new works by fine arts students, faculty and guest artists spanning all media � from sculpture and painting to ceramics and digital media.</description>
+		<department>
+			<name>School of Fine Arts</name>
+			<website>http://roski.usc.edu/</website>
+			<location>Room 104</location>
+		</department>
+		<department>
+			<name>School of Architecture</name>
+			<website>http://arch.usc.edu/</website>
+			<location>Room 204</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1097</id>
+		<name>Loker Hydrocarbon Research Institute</name>
+		<shortName>LHI</shortName>
+		<lat>34.0197415636522</lat>
+		<lon>-118.287764102497</lon>
+		<address>837 Bloom Walk</address>
+		<website>http://www.usc.edu/dept/chemistry/loker/</website>
+		<department>
+			<name>Chemistry</name>
+			<website>http://chem.usc.edu/</website>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1109</id>
+		<name>Laird J. Stabler Memorial Hall</name>
+		<shortName>LJS</shortName>
+		<lat>34.0199245001944</lat>
+		<lon>-118.286940499748</lon>
+		<address>840 Downey Way</address>
+	</Placemark>
+	<Placemark>
+		<id>1113</id>
+		<name>Andrus Gerontology Center</name>
+		<shortName>GER</shortName>
+		<lat>34.0202460000854</lat>
+		<lon>-118.290589500301</lon>
+		<address>3715 McClintock Ave</address>
+		<description>This building is home to the Davis School of Gerontology, the oldest and largest school of gerontology in the world. A pioneer in the field, The Davis School offered the world�s first Ph.D program in Gerontology, the first joint master�s degree with Gerontology and Business Administration and the first undergraduate Health Science Track in Gerontology.</description>
+		<department>
+			<name>Department of Gerontology</name>
+			<website>http://www.usc.edu/dept/gero/</website>
+			<location>Room 101</location>
+		</department>
+		<department>
+			<name>Industrial &amp; Systems Engineering</name>
+			<website> http://www.usc.edu/dept/ise/</website>
+			<location>Room 240</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1117</id>
+		<name>Stauffer Science Lecture Hall</name>
+		<shortName>SLH</shortName>
+		<lat>34.0196515152152</lat>
+		<lon>-118.287490738249</lon>
+		<address>831 Bloom Walk</address>
+	</Placemark>
+	<Placemark>
+		<id>1110</id>
+		<name>Stauffer Hall</name>
+		<shortName>SHS</shortName>
+		<lat>34.019732509338</lat>
+		<lon>-118.286537842795</lon>
+		<address>835 Bloom Walk</address>
+		<department>
+			<name>Physics &amp; Astronomy</name>
+			<website> http://dornsife.usc.edu/physics/home/</website>
+			<location>Room 360</location>
+		</department>
+		<department>
+			<name>Space Sciences Center</name>
+			<website> http://www.usc.edu/dept/space_science/</website>
+			<location>Room 274</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1121</id>
+		<name>Electron Microscopy &amp; Microanalysis Center</name>
+		<shortName>CEM</shortName>
+		<lat>34.0193874850096</lat>
+		<lon>-118.28659182394</lon>
+		<address> 814 W. Downey Way</address>
+		<department>
+			<name> Center for Electron Microscopy &amp; Microanalysis</name>
+			<website> http://www.usc.edu/dept/CEMMA/</website>
+			<location>Room 1</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1123</id>
+		<name>Harris Hall</name>
+		<shortName>HAR</shortName>
+		<lat>34.0188695061908</lat>
+		<lon>-118.287323868212</lon>
+		<address>823 Exposition Blvd</address>
+	</Placemark>
+	<Placemark>
+		<id>1125</id>
+		<name>Mudd Hall</name>
+		<shortName>MHP</shortName>
+		<lat>34.0186705118694</lat>
+		<lon>-118.286750210055</lon>
+		<address>3709 Trousdale Parkway</address>
+		<description>A cherished landmark modeled after a medieval Tuscan monastery, Mudd Hall is home to the USC Dornsife College of Letters, Arts and Sciences� School of Philosophy and the James Harmon Hoose Library of Philosophy. The building was designed by noted architect Ralph Carlin Flewelling, son of USC philosophy professor Ralph Tyler Flewelling, who began developing Hoose Library of Philosophy, one of the best collections of philosophy texts in the world.description>
+		<department>
+				<name>School of Philosophy</name>
+				<website>http://dornsife.usc.edu/phil/home/index.cfm</website>
+				<location>Room 113</location>
+			</department>
+			<department>
+				<name>Philosophy Library</name>
+				<location>Room 202</location>
+			</department>
+		</description>
+	</Placemark>
+	<Placemark>
+		<id>1126</id>
+		<name>YWCA, Belle D. Vivian</name>
+		<shortName>YWC</shortName>
+		<lat>34.0204801069189</lat>
+		<lon>-118.287263741839</lon>
+		<address>857 Downey Way</address>
+		<department>
+			<name>Counseling</name>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>Testing Bureau</name>
+			<location>Room 104</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1127</id>
+		<name>Hazel &amp; Stanley Hall Financial Services Building</name>
+		<shortName>HSH</shortName>
+		<lat>34.0204066446914</lat>
+		<lon>-118.287037529438</lon>
+		<address>851 Downey Way</address>
+		<department>
+			<name>Professional Development</name>
+			<location>Room 214</location>
+		</department>
+		<department>
+			<name>Career &amp; Protective Services</name>
+			<location>Room 300</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1128</id>
+		<name>Stonier Hall</name>
+		<shortName>STO</shortName>
+		<lat>34.0203018689342</lat>
+		<lon>-118.286778363266</lon>
+		<address>837 Downey Way</address>
+		<department>
+			<name>Protocol &amp; University Events</name>
+			<location>Room 203</location>
+		</department>
+		<department>
+			<name>Office for the Protection of Research Subjects</name>
+			<website>http://www.usc.edu/admin/provost/oprs/</website>
+			<location>Room 221</location>
+		</department>
+		<department>
+			<name>Environmental Health &amp; Safety</name>
+			<website>http://capsnet.usc.edu/ehs/</website>
+			<location>Room 309</location>
+		</department>
+		<department>
+			<name>Office of Contracts &amp; Grants</name>
+			<website>http://www.usc.edu/research/dcg/</website>
+			<location>Room 330</location>
+		</department>
+		<department>
+			<name>Trojan Marching Band</name>
+			<website>http://www.usc.edu/dept/band/</website>
+			<location>Room B</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1129</id>
+		<name>Trojan Bookstore</name>
+		<shortName>BKS</shortName>
+		<lat>34.0207156792946</lat>
+		<lon>-118.286453912962</lon>
+		<address>840 Childs Way</address>
+		<website>http://www.uscbookstore.com/</website>
+		<description>This bookstore has everything you need to be a well-equipped USC student, parent, alum or fan. The basement offers a men and women�s clothing store, makeup counter and computer store. The first floor is a general bookstore, complete with novels, magazines and more. The second floor features fantastic Trojan apparel and the third floor offers course textbooks and other classroom supplies.</description>
+		<department>
+			<name>Office of External Relations</name>
+			<location>Room 400</location>
+		</department>
+		<department>
+			<name>Bookstore Administration</name>
+			<location>Room 401</location>
+		</department>
+		<department>
+			<name>Office of the Treasurer</name>
+			<location>Room 402</location>
+		</department>
+		<department>
+			<name>Auxiliary Services Administration</name>
+			<website>http://transnet.usc.edu/</website>
+			<location>Room 404</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1134</id>
+		<name>Student Union</name>
+		<shortName>STU</shortName>
+		<lat>34.0202098185817</lat>
+		<lon>-118.285686557556</lon>
+		<address>3601 Trousdale Parkway</address>
+		<description>The Student Union is one of the main hubs for extracurricular campus life. Housed inside are offices for cultural centers such as the Center for Black Cultural and Student Affairs, and Asian Pacific American Student Services. Here you will also find the USC Ticket Office, a pharmacy, the Career Center, Disability Services, and the Daily Trojan, USC�s student-run, daily newspaper.</description>
+		<department>
+			<name>The Mail Stop</name>
+			<location>Room 1</location>
+		</department>
+		<department>
+			<name>Ticket Office</name>
+			<website>http://www.usc.edu/bus-affairs/ticketoffice/</website>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>Campus Pharmacy</name>
+			<website>http://www.usc.edu/student-affairs/Health_Center/ms.pharmacy.shtml</website>
+			<location>Room 101</location>
+		</department>
+		<department>
+			<name>Student Senate</name>
+			<website>http://www.usc.edu/student_life/campus_life/student_senate/</website>
+			<location>Room 106</location>
+		</department>
+		<department>
+			<name>Career Planning &amp; Placement Center</name>
+			<website>http://careers.usc.edu/</website>
+			<location>Room 111</location>
+		</department>
+		<department>
+			<name>Office of Residential Education</name>
+			<website>http://sait.usc.edu/ResEd/</website>
+			<location>Room 200</location>
+		</department>
+		<department>
+			<name>Office of the Vice President for Student Affairs</name>
+			<website>http://www.usc.edu/student-affairs/</website>
+			<location>Room 201</location>
+		</department>
+		<department>
+			<name>Campus Life</name>
+			<website>http://www.usc.edu/student_life/campus_life/</website>
+			<location>Room 202</location>
+		</department>
+		<department>
+			<name>Student Judicial Affairs &amp; Community Standards </name>
+			<website>http://www.usc.edu/student-affairs/SJACS/index.html</website>
+			<location>Room 206</location>
+		</department>
+		<department>
+			<name>Mexican American Program</name>
+			<website>http://sait.usc.edu/maaa/pages/students/overview.html</website>
+			<location>Room 203</location>
+		</department>
+		<department>
+			<name>Office for International Student Services</name>
+			<website>http:/sait.usc.edu/ois/</website>
+			<location>Room 300</location>
+		</department>
+		<department>
+			<name>Disability Services &amp; Programs</name>
+			<website>http://sait.usc.edu/academicsupport/centerprograms/dsp/other/other_grievance.html</website>
+			<location>Room 301</location>
+		</department>
+		<department>
+			<name>University Publication</name>
+			<website>http://www.usc.edu/student-affairs/programs/univpub.html</website>
+			<location>Room 400</location>
+		</department>
+		<department>
+			<name> Student Publication-Daily Trojan </name>
+			<website>http://www.dailytrojan.com/</website>
+			<location>Room 404</location>
+		</department>
+		<department>
+			<name>Asian Pacific American Student Services</name>
+			<website>http://sait.usc.edu/apass/</website>
+			<location>Room 410</location>
+		</department>
+		<department>
+			<name>Center for Black Culture &amp; Student Affairs</name>
+			<website>http://www.usc.edu/student-affairs/black_cultural_center/</website>
+			<location>Room 415</location>
+		</department>
+		<department>
+			<name>Student Program Board-Spectrum</name>
+			<website>http://sait.usc.edu/spectrum/</website>
+			<location>Room B7</location>
+		</department>
+	</Placemark>
+
+	<Placemark>
+		<id>1135</id>
+		<name>Tutor Campus Center</name>
+		<shortName>TCC</shortName>
+		<lat>34.0198749655114</lat>
+		<lon>-118.28601931851</lon>
+		<address>3607 Trousdale Parkway</address>
+		<website>http://www.usc.edu/student-affairs/construction/campus_center/</website>
+		<description>Opened in fall 2010, the Ronald Tutor Campus Center is a gathering place at the heart of the University Park campus. The four-story building, built around the splendid International Plaza, houses the Admission Center and the Epstein Family Alumni Center, along with student offices and work space, multipurpose areas for events and gatherings, meeting and boardrooms for student organizations, study lounges, technology resources, game and entertainment areas, and dining options.</description>
+		<name>Admission Center</name>
+		<website>http://www.usc.edu/admission/</website>
+		<location>Room 202</location>
+		<department>
+			<name>Epstein Family Alumni Center </name>
+			<website>http://alumni.usc.edu/</website>
+			<location>Third Floor</location>
+		</department>
+		<department>
+			<name>Undergraduate Student Government</name>
+			<website>http://usg.usc.edu/</website>
+			<location>Room 224</location>
+		</department>
+		<department>
+			<name>Graduate &amp; Professional Student Senate</name>
+			<website>http://www.gpssusc.com/</website>
+			<location>Room 224</location>
+		</department>
+		<department>
+			<name>Campus Activities</name>
+			<website>http://www.usc.edu/ca</website>
+			<location>Room 330</location>
+		</department>
+		<department>
+			<name>Volunteer Center</name>
+			<website>http://sait.usc.edu/volunteer/</website>
+			<location>Room 330</location>
+		</department>
+		<department>
+			<name>KSCR Radio</name>
+			<website>http://www.kscr.org/</website>
+			<location>Room B3</location>
+		</department>
+		<department>
+			<name> Academic Recognition Programs</name>
+			<website> http://www.usc.edu/student-affairs/arp/</website>
+			<location>Room 425</location>
+		</department>
+		<department>
+			<name>Program Board</name>
+			<website> http://pb.usc.edu/</website>
+			<location>Room 224</location>
+		</department>
+		<department>
+			<name>Leadership Programs</name>
+			<website> http://sait.usc.edu/ca/usclead/programs_elp.html </website>
+			<location>Room 330</location>
+		</department>
+		<department>
+			<name>Student Organization Offices</name>
+			<website> http://sait.usc.edu/stuorgs/index.html </website>
+			<location>Room 330</location>
+		</department>
+		<department>
+			<name>Scheduling Office</name>
+			<website> http://sait.usc.edu/scheduling/ </website>
+			<location>Room 427</location>
+		</department>
+		<department>
+			<name>Campus Center Administration</name>
+			<location>Room 421</location>
+		</department>
+		<department>
+			<name>Norman Topping Student Aid Fund</name>
+			<website>http://www.usc.edu/student-affairs/ntsaf/</website>
+			<location>Room 425</location>
+		</department>
+	</Placemark>
+
+	<Placemark>
+		<id>1137</id>
+		<name>Zumberge Hall</name>
+		<shortName>ZHS</shortName>
+		<lat>34.0191786100891</lat>
+		<lon>-118.286344860116</lon>
+		<address>3651 Trousdale Parkway</address>
+		<department>
+			<name>Department of Earth Sciences</name>
+			<website>http://dornsife.usc.edu/earth/home/index.cfm</website>
+			<location>Room 117</location>
+		</department>
+		<department>
+			<name>Earthquake Center</name>
+			<website>http://www.scec.org/</website>
+			<location>Room 169</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1140</id>
+		<name>Bridge Hall</name>
+		<shortName>BRI</shortName>
+		<lat>34.0188416395084</lat>
+		<lon>-118.285690287204</lon>
+		<address>3670 Trousdale Parkway </address>
+		<description>Bridge Hall and the adjacent Hoffman Hall are home to the Marshall School of Business. Marshall offers a four-year business program that allows students to pursue interdisciplinary work and multiple concentrations. Its prestigious faculty, location in Los Angeles and access to an active alumni network, make this program one of the leading business schools in the nation.</description>
+		<department>
+			<name> Office of the Dean/Vice Dean for Undergrad and Grad. Prog.</name>
+			<location>Room 101</location>
+		</department>
+		<department>
+			<name> Undergraduate Student Services </name>
+			<location>Room 103</location>
+		</department>
+		<department>
+			<name> Undergraduate Student Advising </name>
+			<location>Room 104</location>
+		</department>
+		<department>
+			<name> Undergraduate Admissions </name>
+			<location>Room 105</location>
+		</department>
+		<department>
+			<name> Office of Finance &amp; Administration/Payroll </name>
+			<location>Room 204</location>
+		</department>
+		<department>
+			<name> Academic Technology Administration </name>
+			<location>Room 207</location>
+		</department>
+		<department>
+			<name> Management &amp; Organization </name>
+			<website> http://www.marshall.usc.edu/faculty/management</website>
+			<location>Room 306</location>
+		</department>
+		<department>
+			<name> Center for Inv. Stu. Finance &amp; Business Economics</name>
+			<location>Room 308</location>
+		</department>
+		<department>
+			<name> Information &amp; Operations Management </name>
+			<website> http://www.marshall.usc.edu/faculty/iom </website>
+			<location>Room 401</location>
+		</department>
+		<department>
+			<name> Lloyd Greif Center for Entrepreneurial Studies </name>
+			<website> http://www.marshall.usc.edu/faculty/centers/greif </website>
+			<location>Room B1</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1142</id>
+		<name>Hoffman Hall</name>
+		<shortName>HOH</shortName>
+		<lat>34.0187615945893</lat>
+		<lon>-118.285155164315</lon>
+		<address>701 Exposition Blvd </address>
+		<description>Hoffman Hall houses undergraduate programs of the USC Marshall School of Business.</description>
+		<department>
+			<name>ELC/Learning Center</name>
+			<website />
+			<location>Room 103</location>
+		</department>
+		<department>
+			<name>Registrar�s Office</name>
+			<website />
+			<location>Room 200</location>
+		</department>
+		<department>
+			<name>Crocker Accounting Library</name>
+			<website />
+			<location>Room 201</location>
+		</department>
+		<department>
+			<name> AIS/Tech Support &amp; Acct. Pay.</name>
+			<website />
+			<location>Room 300</location>
+		</department>
+		<department>
+			<name> Office of Finance &amp; Administration </name>
+			<website />
+			<location>Room 501</location>
+		</department>
+		<department>
+			<name> Deputy Dean's Ph.D. Prog.</name>
+			<website />
+			<location>Room 700</location>
+		</department>
+		<department>
+			<name> FBE Dept.</name>
+			<website />
+			<location>Room 701</location>
+		</department>
+		<department>
+			<name>Dean�s Office</name>
+			<website />
+			<location>Room 800</location>
+		</department>
+		<department>
+			<name> Center for Global Business Excellence </name>
+			<website />
+			<location>Room 802</location>
+		</department>
+
+	</Placemark>
+	<Placemark>
+		<id>1147</id>
+		<name>Leventhal School of Accounting</name>
+		<shortName>ACC</shortName>
+		<lat>34.0191753195636</lat>
+		<lon>-118.285502545232</lon>
+		<address>3660 Trousdale Parkway </address>
+		<description>The Leventhal School of Accounting is the long-standing sister school to the Marshall School of Business. All Accounting majors follow the same track as Business Administration majors for their first two years, then split off into two years of accounting-specific classes. USC�s accounting program is nationally recognized and prepares students to achieve the highest levels of success in the accounting industry.</description>
+		<department>
+			<name>Leventhal School of Accounting</name>
+			<website> http://www.marshall.usc.edu/faculty/leventhal </website>
+			<location>Room 121</location>
+		</department>
+		<department>
+			<name>Food Industry Management Program </name>
+			<website> http://www.marshall.usc.edu/fim </website>
+			<location>Room 203</location>
+		</department>
+		<department>
+			<name>Department of Marketing </name>
+			<website> http://www.marshall.usc.edu/faculty/marketing </website>
+			<location>Room 306F</location>
+		</department>
+		<department>
+			<name>Management Communication </name>
+			<website> http://www.marshall.usc.edu/faculty/centers/cmc </website>
+			<location>Room 400</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1149</id>
+		<name>Hancock Foundation Building</name>
+		<shortName>AHF</shortName>
+		<lat>34.0196888476548</lat>
+		<lon>-118.28497881364</lon>
+		<address>3616 Trousdale Parkway</address>
+		<department>
+			<name>Biology</name>
+			<website>http://dornsife.usc.edu/bisc/home/</website>
+			<location>Room 107F</location>
+		</department>
+
+
+		<department>
+			<name>Wrigley Institute for Environmental Studies</name>
+			<website>http://dornsife.usc.edu/wrigley/home/</website>
+			<location>Room 410</location>
+		</department>
+		<department>
+			<name> Dept. of Economics Development</name>
+			<website>http://dornsife.usc.edu/econ/ </website>
+			<location>Room B10G</location>
+		</department>
+		<department>
+			<name> Social Science Research Inst.</name>
+			<website> http://www.usc.edu/dept/LAS/ssri/</website>
+			<location>Room B59</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1154</id>
+		<name>Musick Law Building</name>
+		<shortName>LAW</shortName>
+		<lat>34.0186895361926</lat>
+		<lon>-118.284294094019</lon>
+		<address>699 Exposition Blvd</address>
+		<website>http://lawweb.usc.edu/</website>
+		<description>The Musick Law Building is headquarters for the USC Gould School of Law.</description>
+		<department>
+			<name>Law Admissions Office</name>
+			<location>Room 104</location>
+		</department>
+		<department>
+			<name>Law Library</name>
+			<website>http://lawweb.usc.edu/library/</website>
+			<location>Room 202</location>
+		</department>
+		<department>
+			<name>Law School</name>
+			<location>Room 303</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1158</id>
+		<name>Town &amp; Gown</name>
+		<shortName>TGF</shortName>
+		<lat>34.0190943603667</lat>
+		<lon>-118.284186175993</lon>
+		<address>665 Exposition Blvd</address>
+		<department>
+			<name>Catering</name>
+			<website>http://hospitality.usc.edu/catering/</website>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>Capital Construction</name>
+			<location>Room 200</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1159</id>
+		<name>University Club</name>
+		<shortName>FAC</shortName>
+		<lat>34.0188291795737</lat>
+		<lon>-118.283515985028</lon>
+		<address>645 Exposition Blvd</address>
+		<website>http://www.usc.edu/bus-affairs/uclub/</website>
+		<description>The USC University Club is a members-only club and restaurant serving faculty, postdoctoral researchers and senior staff. Its facilities include a full-service restaurant, six banquet and meeting rooms, and al-fresco patio dining.</description>
+		<department>
+			<name>University Club</name>
+			<location>Room 1</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1162</id>
+		<name>Lewis Hall</name>
+		<shortName>RGL</shortName>
+		<lat>34.0192689177276</lat>
+		<lon>-118.283479039685</lon>
+		<address>650 Childs Way</address>
+		<description>This hall stands as the main headquarters for the USC School of Policy, Planning, and Development, which combines practical hands-on work with a solid theoretical foundation.</description>
+		<department>
+			<name>School of Policy, Planning and Development</name>
+			<website>http://www.usc.edu/schools/sppd/</website>
+			<location>Room 218</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1166</id>
+		<name>Popovich Hall</name>
+		<shortName>JKP</shortName>
+		<lat>34.0188117178267</lat>
+		<lon>-118.282828486564</lon>
+		<address>611 Exposition Blvd</address>
+		<description>Opened in 1999, Popovich Hall provides a state-of-the-art home for graduate programs of the USC Marshall School of Business.</description>
+		<department>
+			<name>MBA</name>
+			<location>Room 106</location>
+			<department>
+				<name>Marshall MBA Program</name>
+				<website> http://www.marshall.usc.edu/mba </website>
+				<location>Room 200 </location>
+			</department>
+			<department>
+				<name>Executive MBA Program</name>
+				<website> http://www.marshall.usc.edu/emba </website>
+				<location>Room 305 </location>
+			</department>
+			<department>
+				<name>MBA Admissions</name>
+				<website> http://www.marshall.usc.edu/mba/admissions </website>
+				<location>Room 308 </location>
+			</department>
+			<department>
+				<name>Fred V. Keenan MBA Career Resource Center</name>
+				<location>Room 310 </location>
+			</department>
+		</department>
+	</Placemark>
+
+	<Placemark>
+		<id>1167</id>
+		<name>Registration Building</name>
+		<shortName>REG</shortName>
+		<lat>34.0187350000305</lat>
+		<lon>-118.282333500007</lon>
+		<address>601 Exposition Blvd</address>
+		<department>
+			<name>Registration Department</name>
+			<website> http://www.usc.edu/dept/ARR/registration/index.html</website>
+			<location>Room 101</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1170</id>
+		<name>Trojan Residence Hall</name>
+		<shortName>TRO</shortName>
+		<lat>34.0193356777737</lat>
+		<lon>-118.281982432497</lon>
+		<address>615 W. 36th St</address>
+		<website>http://housing.usc.edu/housingoptions/buildings.aspx?bid=tro</website>
+		<description>This three-story residence hall houses Deans� Hall participants as well as other freshmen. It is conveniently located near other freshman housing and is right next door to the Ground Zero coffee house.</description>
+	</Placemark>
+	<Placemark>
+		<id>1171</id>
+		<name>Marks Tower</name>
+		<shortName>DMT</shortName>
+		<lat>34.0197121788835</lat>
+		<lon>-118.281984307476</lon>
+		<address>612 Hellman Way</address>
+		<website>http://housing.usc.edu/HousingOptions/Buildings.aspx?bID=DMT</website>
+		<description>Eight stories tall, this residence hall provides residents with spectacular views of the Los Angeles skyline as well as a place to live, study and socialize. Marks Tower is close to campus libraries, dining facilities and the popular Ground Zero coffee house.</description>
+	</Placemark>
+	<Placemark>
+		<id>1173</id>
+		<name>Pardee Tower</name>
+		<shortName>PTD</shortName>
+		<lat>34.0200298774538</lat>
+		<lon>-118.282549092663</lon>
+		<address>614 Hellman Way</address>
+		<website>http://housing.usc.edu/HousingOptions/Buildings.aspx?bID=PTD</website>
+		<description>Built to house Olympians during the 1984 games in Los Angeles, Pardee Tower is now a popular residence hall for freshmen. The building features a number of common areas and is close to Doheny Memorial Library and McCarthy Quad.</description>
+	</Placemark>
+	<Placemark>
+		<id>1176</id>
+		<name>Parking Structure C (X)</name>
+		<shortName>PSX</shortName>
+		<lat>34.0204202881504</lat>
+		<lon>-118.282003485027</lon>
+		<address>620 W McCarthy Way</address>
+		<description>Enter at the Figueroa Street Entrance at 35th Street (Entrance 3).</description>
+		<department>
+			<name>USCard Services</name>
+			<website>http://www.usc.edu/bus-affairs/admin_serv/uscard_serv/</website>
+		</department>
+		<department>
+			<name>The Mail Stop</name>
+			<website>http://fbs.usc.edu/depts/mmms/page/2276/mail-stop/</website>
+		</department>
+		<department>
+			<name>Housing Services</name>
+			<website>http://housing.usc.edu/Default.aspx</website>
+			<location>Room 137</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1177</id>
+		<name>Figueroa Building</name>
+		<shortName>FIG</shortName>
+		<lat>34.0199060381876</lat>
+		<lon>-118.281524680123</lon>
+		<address>3535 S. Figueroa St</address>
+		<department>
+			<name>Employment</name>
+			<website> http://capsnet.usc.edu/ers/ </website>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>Student Judicial Affairs &amp; Community Standards</name>
+			<website>http://www.usc.edu/student-affairs/SJACS/index.html</website>
+			<location>Room 107</location>
+		</department>
+		<department>
+			<name>Payroll Services</name>
+			<location>Room 109</location>
+		</department>
+		<department>
+			<name>Benefits</name>
+			<website>http://www.usc.edu/dept/Benefits/emp_index.htmlwebsite></website>
+			<location>Room 201</location>
+		</department>
+		<department>
+			<name>Department of Equity and Diversity</name>
+			<website>http://www.usc.edu/dept/adminops/equity_diversity/</website>
+			<location>Room 202</location>
+		</department>
+		<department>
+			<name>Employee Relations</name>
+			<location>Room 208B</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1178</id>
+		<name>University Gardens Building</name>
+		<shortName>UGB</shortName>
+		<lat>34.019923000366</lat>
+		<lon>-118.280430999748</lon>
+		<address>3500 S. Figueroa St</address>
+		<description>The University Gardens Building houses a number of USC's administrative offices, including Purchasing Services, Disbursements Control and Accounts Payable, Supplier Diversity Services, and Travel Management and Corporate Card Services.</description>
+		<department>
+			<name>Business Services</name>
+			<website />
+			<location>Room 107</location>
+		</department>
+		<department>
+			<name>Organization Improvement Services</name>
+			<website />
+			<location>Room 110</location>
+		</department>
+		<department>
+			<name>Space Management</name>
+			<website />
+			<location>Room 110</location>
+		</department>
+		<department>
+			<name>Technical Support</name>
+			<website />
+			<location />
+		</department>
+		<department>
+			<name>Restricted Fund Accounting</name>
+			<website />
+			<location />
+		</department>
+		<department>
+			<name>General Accounting</name>
+			<website />
+			<location />
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1180</id>
+		<name>Radisson Mid-City Hotel</name>
+		<shortName>RMH</shortName>
+		<lat>34.0190725695586</lat>
+		<lon>-118.281145556091</lon>
+		<address>3540 South Figueroa Street</address>
+		<description>In addition to being a full-service hotel serving the needs of the University Park area as a whole, the Radisson is home to freshmen who occupy several student-only floors each year. Students living in the hotel are fully integrated into campus life and able to take advantage of many of the benefits the Radisson has to offer.</description>
+	</Placemark>
+	<Placemark>
+		<id>1013</id>
+		<name>Parkside Apartments</name>
+		<shortName>PKS</shortName>
+		<lat>34.0192514834306</lat>
+		<lon>-118.290268425709</lon>
+		<address>3730 S. McClintock Ave</address>
+		<website>http://housing.usc.edu/HousingOptions/Buildings.aspx?bID=PKS</website>
+		<description> Parkside Apartments encompasses a pair of two-story buildings offering a mix of apartment types for students at all levels. Together with the nearby Arts and Humanities Residential College and International Residential College, the facility is part of the larger Parkside residential community.</description>
+	</Placemark>
+	<Placemark>
+		<id>1021</id>
+		<name>International Residential College at Parkside</name>
+		<shortName>IRC</shortName>
+		<lat>34.0192107085758</lat>
+		<lon>-118.29094370704</lon>
+		<address>3771 S. McClintock Ave</address>
+		<website> http://housing.usc.edu/HousingOptions/Buildings.aspx?bID=IRC</website>
+		<description>Opened in January 2002, the International Residential College at Parkside was specifically designed to foster cross-cultural understanding and learning for domestic and international students at USC.</description>
+	</Placemark>
+	<Placemark>
+		<id>1026</id>
+		<name>Parkside Restaurant</name>
+		<shortName>IRC</shortName>
+		<lat>34.0186995000013</lat>
+		<lon>-118.290535000075</lon>
+		<address>3771 S. McClintock Ave</address>
+		<website>http://hospitality.usc.edu/ResidentialDining/Venues.aspx</website>
+		<description>Parkside Restaurant, located in the International Residential College at Parkside, serves international cuisine specialties from four exhibition stations and also offers vegetarian selections, kosher meals, sandwiches and salads.</description>
+	</Placemark>
+	<Placemark>
+		<id>1027</id>
+		<name>Salvatori Computer Science Center</name>
+		<shortName>SAL</shortName>
+		<lat>34.0194481105187</lat>
+		<lon>-118.289436236764</lon>
+		<address>941 Bloom Walk</address>
+		<website> http://www.cs.usc.edu/</website>
+		<department>
+			<name> Henry Salvatori Computer Science Center </name>
+			<location>Room 300</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1011</id>
+		<name>Tutor Hall</name>
+		<shortName>RTH</shortName>
+		<lat>34.0200903918078</lat>
+		<lon>-118.289746603888</lon>
+		<address>3710 McClintock Ave</address>
+		<department>
+			<name> Engineering Admissions and Student Affairs </name>
+			<location>Room 110</location>
+		</department>
+		<department>
+			<name> Dept. of C.R.E.A.T.E.</name>
+			<website> http://create.usc.edu/</website>
+			<location>Room 314</location>
+		</department>
+		<department>
+			<name>Computer Sciences</name>
+			<location>Room 411</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1010</id>
+		<name>Olin Hall</name>
+		<shortName>OHE</shortName>
+		<lat>34.0206993133086</lat>
+		<lon>-118.289405105787</lon>
+		<address>3650 McClintock Ave</address>
+		<department>
+			<name>Engineering Writing Program</name>
+			<website> http://viterbi.usc.edu/ewp/</website>
+			<location>Room 106</location>
+		</department>
+		<department>
+			<name>School of Engineering � Office of the Dean</name>
+			<website> http://viterbi.usc.edu/</website>
+			<location>Room 200</location>
+		</department>
+		<department>
+			<name>Engineering Finance Office</name>
+			<location>Room 310</location>
+		</department>
+		<department>
+			<name>Information Technology Program</name>
+			<website> http://itp.usc.edu/ </website>
+			<location>Room 412</location>
+		</department>
+		<department>
+			<name>Department of Aerospace &amp; Mechanical Eng.</name>
+			<website> http://ae-www.usc.edu/</website>
+			<location>Room 430</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1034</id>
+		<name>Hughes Aircraft Electrical Engineering Center</name>
+		<shortName>EEB</shortName>
+		<lat>34.0197144293578</lat>
+		<lon>-118.289995388179</lon>
+		<address>3740 McClintock Ave </address>
+		<description>The Hughes Aircraft Electrical Engineering Center houses programs of the USC Viterbi School of Engineering�s Ming Hsieh Department of Electrical Engineering. It is also home to the USC Stevens Institute for Innovation.</description>
+		<department>
+			<name>EE Systems</name>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>Stevens Institute</name>
+			<website>http://stevens.usc.edu/</website>
+			<location>Room 131</location>
+		</department>
+		<department>
+			<name>Computer Engineering</name>
+			<website> http://ceng.usc.edu/ </website>
+			<location>Room 200</location>
+		</department>
+		<department>
+			<name>EE Systems Control Group</name>
+			<location>Room 308</location>
+		</department>
+		<department>
+			<name>Signal &amp; Image Processing Inst.</name>
+			<website> http://sipi.usc.edu/ </website>
+			<location>Room 400</location>
+		</department>
+		<department>
+			<name>Communication Sciences Institute</name>
+			<website> http://csi.usc.edu/ </website>
+			<location>Room 500</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1003</id>
+		<name>Parking Structure A</name>
+		<shortName>PSA</shortName>
+		<lat>34.0210694475096</lat>
+		<lon>-118.290329942182</lon>
+		<address>3667 McClintock Ave</address>
+		<department>
+			<name>Dept. of Public Safety </name>
+			<website> http://capsnet.usc.edu/dps/ </website>
+			<location>Room 1</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1041</id>
+		<name>Von KleinSmid Center</name>
+		<shortName>VKC</shortName>
+		<lat>34.0211670005849</lat>
+		<lon>-118.283910999544</lon>
+		<address>3518 Trousdale Parkway</address>
+		<description>Named for USC's fifth president, the Von KleinSmid Center for International and Public Affairs houses USC College's School of International Relations, Department of Anthropology, Department of Art History and Department of Political Science as well as the USC Office of Globalization and the Von KleinSmid Center Library for Applied Social Sciences. The facility also is home to the Tyler Environmental Prize Pavilion.</description>
+		<department>
+			<name>Unruh Institute of Politics</name>
+			<website>http://dornsife.usc.edu/unruh/</website>
+			<location>Room 263</location>
+		</department>
+		<department>
+			<name>Political Science</name>
+			<website>http://dornsife.usc.edu/politicalscience/home/?CFID=2436433&amp;CFTOKEN=43374722</website>
+			<location>Room 327</location>
+		</department>
+		<department>
+			<name>International Relations</name>
+			<website>http://dornsife.usc.edu/sir</website>
+			<location>Room 330</location>
+		</department>
+		<department>
+			<name>Art History</name>
+			<website>http://dornsife.usc.edu/ahis/home/</website>
+			<location>Room 351</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1047</id>
+		<name>Zemeckis Center for Digital Arts</name>
+		<shortName>RZC</shortName>
+		<lat>34.0231730007991</lat>
+		<lon>-118.279884999195</lon>
+		<address>3131 S. Figueroa St</address>
+		<description>The Robert Zemeckis Center for Digital Arts is the country�s first fully digital filmmaking training center.</description>
+		<website>http://cinema.usc.edu/facilities/zemeckiscenter.cfm</website>
+		<department>
+			<name>Trojan Vision</name>
+			<website>http://trojanvision.com/</website>
+			<location>Room 1</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1048</id>
+		<name>Shrine Auditorium</name>
+		<shortName>SHR</shortName>
+		<lat>34.0232265194719</lat>
+		<lon>-118.281384176865</lon>
+		<address>665 West Jefferson Boulevard</address>
+		<website>http://www.shrineauditorium.com/</website>
+		<description>The historic Shrine Auditorium is home to USC's Institute of Modern Russian Culture(IMRC), which is concerned with the cultural history of Russia -- especially the visual arts and literature during the 19th and 20th centuries.</description>
+	</Placemark>
+	<Placemark>
+		<id>1050</id>
+		<name>Corsica</name>
+		<shortName>COR</shortName>
+		<lat>34.0240758232394</lat>
+		<lon>-118.281223022306</lon>
+		<address>715 W. 32nd Street</address>
+		<website>http://housing.usc.edu/HousingOptions/Buildings.aspx?bID=COR</website>
+		<description>The Corsica is a two-story building with a mix of apartment types, located across the street from the historic Shrine Auditorium, less than two blocks from campus.</description>
+	</Placemark>
+	<Placemark>
+		<id>1052</id>
+		<name>Rosso Oro's Pizzeria</name>
+		<shortName>null</shortName>
+		<lat>34.0195480000685</lat>
+		<lon>-118.280856500057</lon>
+		<address>3500 South Figueroa Blvd.</address>
+		<website>http://www.rossoorospizzeria.com/</website>
+		<description>Rosso's Pizzeria serves thin-crust pizza as well as salads and standard Italian dishes in a casual atmosphere.</description>
+	</Placemark>
+	<Placemark>
+		<id>1001</id>
+		<name>Powell Hall</name>
+		<shortName>PHE</shortName>
+		<lat>34.0191670000207</lat>
+		<lon>-118.288743500021</lon>
+		<address>3737 Watt Way</address>
+		<department>
+			<name>Computer Science Inst.</name>
+			<location>Room 204</location>
+		</department>
+		<department>
+			<name>Integrated Media Science Center</name>
+			<website>http://imsc.usc.edu/</website>
+			<location>Room 306</location>
+		</department>
+		<department>
+			<name>Electrical Engineering/Electrophysics</name>
+			<website>http://ee.usc.edu/</website>
+			<location>Room 604</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1063</id>
+		<name>Seaver Science Center</name>
+		<shortName>SSC</shortName>
+		<lat>34.0198149994312</lat>
+		<lon>-118.289206129853</lon>
+		<address>920 Bloom Walk</address>
+		<department>
+			<name>Seaver Science Library</name>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>Physics &amp; Astronomy</name>
+			<website>http://dornsife.usc.edu/physics/home/</website>
+			<location>Room 223</location>
+		</department>
+		<department>
+			<name>Electrical Engineering/Electrophysics</name>
+			<website>http://ee.usc.edu/</website>
+			<location>Room 502</location>
+		</department>
+		<department>
+			<name>Chemistry</name>
+			<website>http://chem.usc.edu/</website>
+			<location>Room 620</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1065</id>
+		<name>Denney Research Center</name>
+		<shortName>DRB</shortName>
+		<lat>34.0214363533654</lat>
+		<lon>-118.291089639483</lon>
+		<address>1042 Downey Way</address>
+		<department>
+			<name>Alfred Mann Institute</name>
+			<website>http://ami.usc.edu/</website>
+			<location>Room 101</location>
+		</department>
+		<department>
+			<name>Biomedical Engineering</name>
+			<website>http://bme.usc.edu/</website>
+			<location>Room 140</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1068</id>
+		<name>Kaprielian Hall</name>
+		<shortName>KAP</shortName>
+		<lat>34.0224189227706</lat>
+		<lon>-118.290955436693</lon>
+		<address>3620 S. Vermont Ave</address>
+		<department>
+			<name>Dept. of Mathematics</name>
+			<website>http://math.usc.edu/home/</website>
+			<location>Room 108</location>
+		</department>
+		<department>
+			<name>Adv. Network Technology</name>
+			<location>Room 132</location>
+		</department>
+		<department>
+			<name>Civil Engineering</name>
+			<website>http://cee.usc.edu/</website>
+			<location>Room 210</location>
+		</department>
+		<department>
+			<name>Dept. of Economics</name>
+			<website>http://dornsife.usc.edu/econ/</website>
+			<location>Room 300</location>
+		</department>
+		<department>
+			<name>Dept. of Sociology</name>
+			<website>http://dornsife.usc.edu/soci/</website>
+			<location>Room 352</location>
+		</department>
+		<department>
+			<name>Dept. of Geography</name>
+			<website>http://dornsife.usc.edu/geography/</website>
+			<location>Room 416</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1075</id>
+		<name>Seeley G. Mudd Building</name>
+		<shortName>SGM</shortName>
+		<lat>34.0216794421579</lat>
+		<lon>-118.288760922328</lon>
+		<address>3620 McClintock Ave</address>
+		<department>
+			<name>Chemistry</name>
+			<website>http://chem.usc.edu/</website>
+			<location>Room 418</location>
+		</department>
+		<department>
+			<name>Psychology</name>
+			<website>http://psychology.usc.edu/home/</website>
+			<location>Room 501</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1076</id>
+		<name>Grace Ford Salvatori Hall</name>
+		<shortName>GFS</shortName>
+		<lat>34.0213060118882</lat>
+		<lon>-118.287951746495</lon>
+		<address>3601 Watt Way</address>
+		<department>
+			<name>Anthropology</name>
+			<website>http://dornsife.usc.edu/anth/html/index.html</website>
+			<location>Room 120</location>
+		</department>
+		<department>
+			<name>Linguistics</name>
+			<website>http://dornsife.usc.edu/ling/home/index.cfm</website>
+			<location>Room 301</location>
+		</department>
+		<department>
+			<name>Graduate School</name>
+			<website>http://www.usc.edu/schools/GraduateSchool/</website>
+			<location>Room 315</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1079</id>
+		<name>Biegler Hall</name>
+		<shortName>BHE</shortName>
+		<lat>34.0205666529617</lat>
+		<lon>-118.288474323301</lon>
+		<address>920 Downey Way</address>
+		<description>Biegler Hall, the university's first engineering building dedicated in 1939, is home to the Tsunami Research Center.</description>
+	</Placemark>
+	<Placemark>
+		<id>1243</id>
+		<name>Bing Theatre</name>
+		<shortName>BIT</shortName>
+		<lat>34.0224170248145</lat>
+		<lon>-118.285890560245</lon>
+		<address>3500 Watt Way</address>
+		<website>http://theatre.usc.edu/facilities/bing-theatre.html</website>
+		<description>The USC School of Theatre�s premier venue as well as a setting for musical performances, Bing Theatre is a traditional proscenium house with seating for 551.</description>
+	</Placemark>
+	<Placemark>
+		<id>1244</id>
+		<name>Annenberg Auditorium</name>
+		<shortName>ASC</shortName>
+		<lat>34.0219019187422</lat>
+		<lon>-118.285867005287</lon>
+		<address>3502 Watt Way</address>
+		<description> The 220-seat Annenberg Auditorium is a popular venue for lectures and special events.</description>
+	</Placemark>
+	<Placemark>
+		<id>1245</id>
+		<name>Annenberg School for Communication &amp; Journalism</name>
+		<shortName>ASC</shortName>
+		<lat>34.0221025000412</lat>
+		<lon>-118.286323500114</lon>
+		<address>3502 Watt Way</address>
+		<website>http://annenberg.usc.edu/AboutUs/Overview.aspx</website>
+		<description>This building was named for Walter Annenberg, former US Ambassador and founder of Seventeen Magazine and TV Guide. The Annenberg School is one of the leaders in the fields of Communication, Journalism and Public Relations. It incorporates study abroad, internships, research and digital media to complement the academic learning environment. Students also have the opportunity to get hands-on experience by participating in Annenberg TV News, Annenberg News Radio and the Daily Trojan student newspaper.</description>
+		<department>
+			<name>Annenberg School for Communication</name>
+			<location>Room 138</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1248</id>
+		<name>Parking Structure One</name>
+		<shortName>PSO</shortName>
+		<lat>34.0176767198632</lat>
+		<lon>-118.281875985333</lon>
+
+		<description>Pay-by-use lot. Enter off of Vermont Avenue (Entrance 7)or Jefferson Boulevard (Entrance 8).</description>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1249</id>
+		<name>Tyler Building</name>
+		<shortName>TYL</shortName>
+		<lat>34.0181354935039</lat>
+		<lon>-118.281107703248</lon>
+		<address>3601 S. Flower St</address>
+		<department>
+			<name>Admission Processing Center</name>
+			<location>
+				Room 100
+			</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1252</id>
+		<name>Marcia Lucas Building</name>
+		<shortName>LPB</shortName>
+		<lat>34.0228280000253</lat>
+		<lon>-118.285918500007</lon>
+		<address>3450 Watt Way</address>
+		<website>http://cinema.usc.edu/facilities/lucaspost.cfm</website>
+		<description>The Marcia Lucas Building houses sound and video facilities as well as the USC School of Cinematic Arts� John C. Hench Division of Animation and Digital Arts.</description>
+		<department>
+			<name>Division of Animation and Digital Arts Office </name>
+			<website> http://anim.usc.edu/ </website>
+			<location>Room 200C</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1253</id>
+		<name>George Lucas Building</name>
+		<shortName>LUC</shortName>
+		<lat>34.0231697080224</lat>
+		<lon>-118.285820613375</lon>
+		<address>3450 Watt Way</address>
+		<description>The George Lucas Instructional Building is home to many classrooms as well as the administrative offices of the dean and the writing, production, interactive media, critical studies and Peter Stark Producing Program of the USC School of Cinematic Arts.</description>
+	</Placemark>
+	<Placemark>
+		<id>1254</id>
+		<name>Spielberg Stage</name>
+		<shortName>SSS</shortName>
+		<lat>34.0229850000387</lat>
+		<lon>-118.285508999976</lon>
+		<address>3450 Watt Way</address>
+		<description>The Steven Spielberg Music Scoring Stage includes a recording studio large enough to accommodate 50 musicians, a digital console and state-of-the-art recording equipment.</description>
+	</Placemark>
+	<Placemark>
+		<id>1255</id>
+		<name>Carson Center</name>
+		<shortName>CTV</shortName>
+		<lat>34.0230553854669</lat>
+		<lon>-118.28562933701</lon>
+		<address>3450 Watt Way</address>
+		<description> This 3,600-square-foot facility includes a television sound stage that accommodates film shoots for students in the USC School of Cinematic Arts. Beneath the stage are classrooms and lab space for the Interactive Media Division as well as the school�s admissions, student affairs, student/industry relations, and festivals.</description>
+	</Placemark>
+	<Placemark>
+		<id>1256</id>
+		<name>Lloyd Stage</name>
+		<shortName>CSS</shortName>
+		<lat>34.0231603235501</lat>
+		<lon>-118.2853960896</lon>
+		<address>3450 Watt Way</address>
+		<description>The 3,600-square-foot Harold Lloyd Motion Picture Scoring Stage includes a 30-foot grid and catwalk system and accommodates film shoots for students in the USC School of Cinematic Arts.</description>
+	</Placemark>
+	<Placemark>
+		<id>1259</id>
+		<name>Student Health Center</name>
+		<shortName>SHC</shortName>
+		<lat>34.0234960850178</lat>
+		<lon>-118.285183465254</lon>
+		<address>849 W. 34th Street</address>
+		<department>
+			<name>Claire Zellerbach Saroni Student Health Center</name>
+			<location>Room 200</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1260</id>
+		<name>Norris Dental Science Center</name>
+		<shortName>DEN</shortName>
+		<lat>34.0240361298523</lat>
+		<lon>-118.286336660146</lon>
+		<address>925 W. 34th Street</address>
+		<description>The Norris Dental Science Center is home to the educational and clinical programs of the USC School of Dentistry. Under the supervision of the school's expert faculty, student doctors and residents provide high-quality oral health care at reduced rates in the facility's clinical areas.</description>
+		<department>
+			<name>School of Dentistry</name>
+			<website> http://dentistry.usc.edu/</website>
+			<location>Room B52</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1264</id>
+		<name>Instructional Media Services</name>
+		<shortName>IMS</shortName>
+		<lat>34.0239996738608</lat>
+		<lon>-118.285587403233</lon>
+		<address>3399 Watt Way</address>
+		<department>
+			<name>IMS The Copy House</name>
+			<location>Room 1</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1267</id>
+		<name>School of Cinematic Arts</name>
+		<shortName>SCA</shortName>
+		<lat>34.0233010198778</lat>
+		<lon>-118.286743353982</lon>
+		<address>900 W. 34th Street</address>
+		<website>http://cinema.usc.edu/</website>
+		<description>The new USC School of Cinematic Arts complex, completed in 2010, comprises seven buildings totaling 200,000 square feet. The facility houses a broad range of projects and personnel, including post-production suites, classrooms, screening rooms, conference and seminar facilities, and administrative offices. The main buildings also encompass a 200-seat theatre, an exhibition hall and a caf�, and rise above a sweeping main courtyard.</description>
+	</Placemark>
+	<Placemark>
+		<id>1269</id>
+		<name>Humanities and Social Sciences Annex</name>
+		<shortName>HSS</shortName>
+		<lat>34.0234868524307</lat>
+		<lon>-118.287264004149</lon>
+		<address>938 W. 34th Street</address>
+	</Placemark>
+	<Placemark>
+		<id>1271</id>
+		<name>Physical Plant Operations Building A</name>
+		<shortName>POA</shortName>
+		<lat>34.0238046864325</lat>
+		<lon>-118.28719456391</lon>
+		<address>941 W. 35th Street </address>
+	</Placemark>
+	<Placemark>
+		<id>1270</id>
+		<name>Physical Plant Operations Building B</name>
+		<shortName>POB</shortName>
+		<lat>34.0237708951415</lat>
+		<lon>-118.287309147698</lon>
+		<address>931 W. 35th Street</address>
+	</Placemark>
+	<Placemark>
+		<id>1054</id>
+		<name>Fluor Tower</name>
+		<shortName>FLT</shortName>
+		<lat>34.0249237622555</lat>
+		<lon>-118.288228166914</lon>
+
+		<department>
+			<name />
+			<website />
+			<location />
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1278</id>
+		<name>Lyon Center</name>
+		<shortName>LRC</shortName>
+		<lat>34.0244570002694</lat>
+		<lon>-118.288449999778</lon>
+		<address>1026 W. 34th St</address>
+		<website>http://sait.usc.edu/recsports/</website>
+		<description>The 66,000-square foot Lyon University Center hosts an array of intercollegiate athletic events. The Center's 21,800 square foot gym and smaller auxiliary gym serve as an occasional home to both Women's Basketball and Men's Volleyball. To serve student extracurricular fitness activities, Lyon Center has a sauna and a Jacuzzi, student recreation club offices, equipment rental and sales, men's and women's locker rooms, a weight room, 4 racquetball courts, 2 squash courts, group exercise room, stretching areas, and cardiovascular equipment.</description>
+
+
+		<department>
+			<name>Office</name>
+			<location>Room 1</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1281</id>
+		<name>Webb Tower</name>
+		<shortName>WTO</shortName>
+		<lat>34.0246315640027</lat>
+		<lon>-118.287635676905</lon>
+		<address>1015 W. 34th Street</address>
+		<website>http://housing.usc.edu/HousingOptions/Buildings.aspx?bID=WTO</website>
+		<description>USC�s tallest student residence, 14-story Webb Tower features one- and two-bedroom apartment living, a spectacular view of the city, and a short walk to Lyon University Center.</description>
+		<department>
+			<name />
+			<website />
+			<location />
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1283</id>
+		<name>Jefferson Building</name>
+		<shortName>JEF</shortName>
+		<lat>34.0246745550215</lat>
+		<lon>-118.286862332787</lon>
+		<address>950 W. Jefferson Blvd</address>
+		<description>The Jefferson Building houses programs of the USC Dornsife College of Letters, Arts and Sciences.</description>
+		<department>
+			<name>American Language Institute</name>
+			<website>http://dornsife.usc.edu/ali/</website>
+			<location>Room 206</location>
+		</department>
+		<department>
+			<name>Language Academy</name>
+			<website>http://www.usc.edu/dept/education/langacad/index.htm</website>
+			<location>Room 200</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1284</id>
+		<name>McClintock Building &amp; Theatre</name>
+		<shortName>MCC</shortName>
+		<lat>34.0250025344765</lat>
+		<lon>-118.287476181496</lon>
+
+		<description>The McClintock Building houses programs of the USC School of Theatre, featuring studio classrooms, offices, a recording studio and a video reference library as well as a 99-seat black-box theatre used for MFA acting productions and dramatic writing workshops.</description>
+	</Placemark>
+	<Placemark>
+		<id>1285</id>
+		<name>Parking Structure B</name>
+		<shortName>PSB</shortName>
+		<lat>34.0248129512602</lat>
+		<lon>-118.289357380592</lon>
+		<address>1150 W. Jefferson Blvd</address>
+		<description>Parking for students, faculty and staff with permits only, for guests by reservation, and for Norris Dental Science Center clinic patients.</description>
+		<department>
+			<name>Purchasing Services</name>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>Student Accounting Services</name>
+			<location>Room 106</location>
+		</department>
+		<department>
+			<name>Student Financial Services</name>
+			<location>Room 114</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1288</id>
+		<name>Irani Hall</name>
+		<shortName>RRI</shortName>
+		<lat>34.0221395003676</lat>
+		<lon>-118.290114999749</lon>
+		<address>1050 Child�s Way</address>
+		<description> The 100,000-square-foot Ray R. Irani Hall houses interdisciplinary programs of the USC Dornsife College of Letters, Arts and Sciences and is dedicated to cross-disciplinary research in biological sciences</description>
+	</Placemark>
+	<Placemark>
+		<id>1106</id>
+		<name>Ahmanson Center</name>
+		<shortName>ACB</shortName>
+		<lat>34.0194723168437</lat>
+		<lon>-118.287150062282</lon>
+		<address>825 Bloom Walk </address>
+		<department>
+			<name>School of Religion</name>
+			<website> http://www.usc.edu/dept/LAS/religion/ </website>
+			<location>Room 130</location>
+		</department>
+		<department>
+			<name>The Casden Institute </name>
+			<website>http://casdeninstitute.usc.edu/</website>
+			<location>Room 326</location>
+		</department>
+		<department>
+			<name>Archaeological Research Center</name>
+			<website>http://www.usc.edu/dept/LAS/religion/arc/</website>
+			<location>Room 332</location>
+		</department>
+		<department>
+			<name>Inscriptifact</name>
+			<website>http://www.inscriptifact.com/index.shtml</website>
+			<location>Room 429</location>
+		</department>
+		<department>
+			<name>Center for Religion &amp; Civic Culture</name>
+			<website>http://crcc.usc.edu/</website>
+			<location>Room 439</location>
+		</department>
+		<department>
+			<name>LAS College Computing Center</name>
+			<location>Room 532</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1293</id>
+		<name>Norris Cinema Theatre</name>
+		<shortName>NCT</shortName>
+		<lat>34.0220830001839</lat>
+		<lon>-118.285160999811</lon>
+		<address>3507 Trousdale Pkwy</address>
+		<website> http://cinema.usc.edu/facilities/norriscomplex.cfm</website>
+		<description> This 341-seat motion picture theatre, equipped with THX sound, regularly hosts USC School of Cinematic Arts classes, film screenings and special events.</description>
+	</Placemark>
+	<Placemark>
+		<id>1184</id>
+		<name>Parking Structure Two</name>
+		<shortName>PS2</shortName>
+		<lat>34.0187523257469</lat>
+		<lon>-118.280955167201</lon>
+		<address>3533 South Flower Street</address>
+	</Placemark>
+	<Placemark>
+		<id>1185</id>
+		<name>Hubbard Hall</name>
+		<shortName>JHH</shortName>
+		<lat>34.0194892101228</lat>
+		<lon>-118.284078332542</lon>
+		<address>700 Childs Way</address>
+		<department>
+			<name>Academic Records &amp; Registrar</name>
+			<website> http://www.usc.edu/dept/ARR/</website>
+			<location>Room 103</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1187</id>
+		<name>Doheny Memorial Library</name>
+		<shortName>DML</shortName>
+		<lat>34.0201912095766</lat>
+		<lon>-118.283682288153</lon>
+		<address>3550 Trousdale Parkway</address>
+		<website>http://www.usc.edu/libraries/locations/doheny/</website>
+		<description>Historic Edward L. Doheny Jr. Memorial Library has served as an intellectual center and cultural treasure for students, faculty, staff and campus visitors since it opened in 1932. Created as a memorial to Edward L. Doheny Jr., a USC trustee and alumnus, this landmark building was USC�s first freestanding library. It houses vast collections of books and journals and also is one of the university�s best loved gathering places, hosting academic and cultural events ranging from lectures, readings and conferences to special exhibits and concerts.</description>
+
+
+		<department>
+			<name>Office of the Dean</name>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>LA Institute for the Humanities</name>
+			<website> http://www.usc.edu/libraries/partners/laih/</website>
+			<location>Room 235</location>
+		</department>
+		<department>
+			<name>Doheny Office of Tech Supports</name>
+			<location>Room B11</location>
+		</department>
+		<department>
+			<name>Art Center/Music Library</name>
+			<website> http://www.usc.edu/libraries/locations/music/</website>
+			<location>Room G24</location>
+		</department>
+		<department>
+			<name>Cinema-TV Library</name>
+			<website>http://www.usc.edu/libraries/locations/cinema_tv/</website>
+			<location>Room G4</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1108</id>
+		<name>Bovard Administration Building</name>
+		<shortName>ADM</shortName>
+		<lat>34.0209635479847</lat>
+		<lon>-118.285473582239</lon>
+		<address>3551 Trousdale Parkway</address>
+		<description> Perhaps the most iconic of the University Park campus's Italian Romanesque-style buildings, Bovard Administration Building houses many of the university's central administrative offices as well as an auditorium that is one of the oldest and busiest performance venues in Southern California.</description>
+		<department>
+			<name>Office of the Provost</name>
+			<website>http://www.usc.edu/admin/provost/index.html</website>
+			<location>Room 102</location>
+		</department>
+		<department>
+			<name>Office of the President</name>
+			<website> http://www.president.usc.edu/</website>
+			<location>Room 110</location>
+		</department>
+		<department>
+			<name>Senior VP of Finance</name>
+			<location>Room 150</location>
+		</department>
+		<department>
+			<name>College of Letters, Arts &amp; Sciences</name>
+			<website> http://dornsife.usc.edu/</website>
+			<location>Room 304</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1196</id>
+		<name>Physical Education Building</name>
+		<shortName>PED</shortName>
+		<lat>34.0214587868681</lat>
+		<lon>-118.28657890219</lon>
+		<address>3560 Watt Way</address>
+		<website>http://sait.usc.edu/recsports/</website>
+		<description> The Physical Education Building was built in 1933 and is among the classic buildings on the USC campus. The North Gym's cozy environment and tight quarters continually provide one of the most intimidating homecourt advantages in the Pac-10.</description>
+
+
+		<department>
+			<name>Naval ROTC</name>
+			<website>http://www.usc.edu/dept/nrotc/</website>
+			<location>Room 101</location>
+		</department>
+		<department>
+			<name>Department of Kinesiology </name>
+			<website>http://dornsife.usc.edu/kinesiology/home/index.cfm</website>
+			<location>Room 107</location>
+		</department>
+		<department>
+			<name>Army ROTC</name>
+			<website>http://www.uscarmyrotc.org/usc.html</website>
+			<location>Room 110</location>
+		</department>
+		<department>
+			<name>Air Force</name>
+			<location>Room 115</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1198</id>
+		<name>Heritage Hall</name>
+		<shortName>HER</shortName>
+		<lat>34.0225430000283</lat>
+		<lon>-118.286762500603</lon>
+		<address>3501 Watt Way</address>
+		<website>http://www.usctrojans.com/trads/usc-heritage-hall.html</website>
+		<description>Home to USC�s Department of Intercollegiate Athletics, Heritage Hall encompasses administrative and coaches� offices as well as the McAlister Academic Resource Center, the Jess Hill Weight Room, and displays of trophies, plaques and other mementos highlighting the Trojan athletic heritage.</description>
+		<department>
+			<name>Sports Information</name>
+			<location>Room 103</location>
+		</department>
+		<department>
+			<name>Department of Athletics</name>
+			<website>http://www.usctrojans.com/index-main.html</website>
+			<location>Room 203</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1199</id>
+		<name>Galen Athletic Center</name>
+		<shortName>GAP</shortName>
+		<lat>34.022905778534</lat>
+		<lon>-118.287005381266</lon>
+		<address>3400 S. Figueroa St</address>
+		<website>http://www.usctrojans.com/trads/usc-galen-center.html</website>
+		<description>The Galen Athletic Center is a 5,400-square-foot sports-themed restaurant located adjacent to Heritage Hall.</description>
+	</Placemark>
+	<Placemark>
+		<id>1201</id>
+		<name>Social Sciences Building</name>
+		<shortName>SOS</shortName>
+		<lat>34.021579000039</lat>
+		<lon>-118.283677500015</lon>
+		<address>3520 Trousdale Parkway</address>
+		<department>
+			<name>History</name>
+			<website>http://dornsife.usc.edu/hist/</website>
+			<location>Room 153</location>
+		</department>
+		<department>
+			<name>International Studies</name>
+			<location>Room B1</location>
+		</department>
+		<department>
+			<name>Pacific Counsel</name>
+			<website>http://www.pacificcouncil.org/</website>
+			<location>Room B15</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1204</id>
+		<name>Leavey Library</name>
+		<shortName>LVL</shortName>
+		<lat>34.0218015004903</lat>
+		<lon>-118.282755999345</lon>
+		<address>650 W. 35th St</address>
+		<website>http://www.usc.edu/libraries/locations/leavey/</website>
+		<description>Leavey Library provides an environment for inquiry, discovery and intellectual stimulation geared to undergraduate learning needs. Leavey maintains a broad-based, general education-level collection in a variety of formats, including 45,000 books, more than 3,000 audiovisual titles and access to electronic and online texts. The library is open 24 hours a day, except from midnight to 9 a.m. on Sunday, when classes are in session.</description>
+	</Placemark>
+	<Placemark>
+		<id>1207</id>
+		<name>Birnkrant Residential College</name>
+		<shortName>BSR</shortName>
+		<lat>34.021483481721</lat>
+		<lon>-118.282238713109</lon>
+		<address>642 W. 34th Street</address>
+		<website>http://housing.usc.edu/HousingOptions/Buildings.aspx?bID=BSR</website>
+		<description>This eight-story residence hall, a favorite with freshmen, is conveniently located next to Leavey Library and the EVK dining hall. The popular Trojan Grounds coffee house can be found on the ground floor.</description>
+	</Placemark>
+	<Placemark>
+		<id>1210</id>
+		<name>EVerybody's Kitchen</name>
+		<shortName>BSR</shortName>
+		<lat>34.0213009216192</lat>
+		<lon>-118.281817938764</lon>
+		<address>642 W. 34th Street </address>
+		<website>http://hospitality.usc.edu/ResidentialDining/Venues.aspx</website>
+		<description>Located adjacent to Birnkrant and New Residential Colleges, EVerybody's Kitchen (EVK) offers American cuisine entrees, Mexican and vegetarian stations, sandwiches, salads and desserts.</description>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1212</id>
+		<name>North Residential College</name>
+		<shortName>NRC</shortName>
+		<lat>34.0210441404931</lat>
+		<lon>-118.281242792619</lon>
+		<address>635 USC McCarthy Way</address>
+		<website>http://housing.usc.edu/HousingOptions/Buildings.aspx?bID=HRH-NRC</website>
+		<description>This freshman residential college is made up of two buildings, May Ormerod Harris Residence Hall and University Residence Hall, and is conveniently located near campus libraries, dining venues, and other residence facilities for freshmen.</description>
+	</Placemark>
+	<Placemark>
+		<id>1213</id>
+		<name>Davidson Continuing Education Center</name>
+		<shortName>DCC</shortName>
+		<lat>34.0216654093996</lat>
+		<lon>-118.280519031657</lon>
+		<address>3415 S. Figueroa St </address>
+		<description>Located at the intersection of Figueroa Street and Jefferson Boulevard, USC�s Davidson Continuing Education Center provides a state-of-the-art environment for conferences, executive meetings and continuing-education programs</description>
+		<department>
+			<name>Catering &amp; Conference </name>
+			<location>Room 103</location>
+		</department>
+		<department>
+			<name>IBEAR</name>
+			<website>http://www.marshall.usc.edu/ibear </website>
+			<location>Room 115</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1216</id>
+		<name>Parking Structure D</name>
+		<shortName>PSD</shortName>
+		<lat>34.0220946230899</lat>
+		<lon>-118.281496427071</lon>
+		<address>649 W 34th Street </address>
+		<description>Enter at the Jefferson Boulevard Entrance at Royal Street (Entrance 4).</description>
+		<department>
+			<name>USCard Services</name>
+			<website> http://www.usc.edu/bus-affairs/admin_serv/uscard_serv/</website>
+			<location>Room 102</location>
+		</department>
+		<department>
+			<name>Student Health Center</name>
+			<location>Room 116</location>
+		</department>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1218</id>
+		<name>Social Work Center</name>
+		<shortName>SWC</shortName>
+		<lat>34.0225460000941</lat>
+		<lon>-118.282259999897</lon>
+		<address>655 W. 34th Street</address>
+	</Placemark>
+	<Placemark>
+		<id>1221</id>
+		<name>Montgomery Ross Fisher Building</name>
+		<shortName>MRF</shortName>
+		<lat>34.0223460000759</lat>
+		<lon>-118.282449999994</lon>
+		<address>669 W. 34th St</address>
+		<description>The Montgomery Ross Fisher Building is home to the USC School of Social Work.</description>
+		<department>
+			<name>School of Social Work</name>
+			<website> http://sowkweb.usc.edu/</website>
+			<location>Room 214</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1224</id>
+		<name>Stoops Hall</name>
+		<shortName>EDL</shortName>
+		<lat>34.0226135852887</lat>
+		<lon>-118.283072268756</lon>
+		<address>705 W 34th Street</address>
+		<description> Stoops Hall opened its doors in 1923 as the University Branch of the Los Angeles Public Library, and until Doheny Memorial Library debuted in 1932, it served as the main library for USC students. It became part of the university in 1965, and for 33 years was home to the Education Library.</description>
+
+
+	</Placemark>
+	<Placemark>
+		<id>1226</id>
+		<name>College Academic Services Building</name>
+		<shortName>CAS</shortName>
+		<lat>34.0223739022599</lat>
+		<lon>-118.28359921604</lon>
+		<address>3454 Trousdale Parkway</address>
+		<department>
+			<name>Dornsife Office of Admission</name>
+			<website> http://dornsife.usc.edu/admission/</website>
+			<location>Room 100</location>
+		</department>
+		<department>
+			<name>Office of College Advising</name>
+			<location>
+				Room 120
+			</location>
+		</department>
+		<department>
+			<name>General Studies</name>
+			<location>Room 200</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1230</id>
+		<name>Taper Hall</name>
+		<shortName>THH</shortName>
+		<lat>34.0222947360646</lat>
+		<lon>-118.284492426746</lon>
+		<address>3501 Trousdale Parkway</address>
+		<department>
+			<name>Department of French and Italian</name>
+			<website>http://dornsife.usc.edu/fren-ital/home/index.cfm</website>
+			<location>Room 155</location>
+		</department>
+		<department>
+			<name>Spanish &amp; Portuguese</name>
+			<website>http://dornsife.usc.edu/spanish/about/index.html</website>
+			<location>Room 156</location>
+		</department>
+		<department>
+			<name>Comp. Literature</name>
+			<website>http://dornsife.usc.edu/colt/home/</website>
+			<location>Room 166</location>
+		</department>
+		<department>
+			<name>Institute for Armenian Studies</name>
+			<location>Room 252</location>
+		</department>
+		<department>
+			<name>Slavic</name>
+			<website>http://dornsife.usc.edu/sll/home/?CFID=2498167&amp;CFTOKEN=96999307</website>
+			<location>Room 255</location>
+		</department>
+		<department>
+			<name>Classics</name>
+			<website>http://dornsife.usc.edu/clas/home/</website>
+			<location>Room 256</location>
+		</department>
+		<department>
+			<name>East Asian Languages and Cultures</name>
+			<website>http://www.usc.edu/schools/college/ealc/home/</website>
+			<location>Room 356</location>
+		</department>
+		<department>
+			<name>English</name>
+			<website>http://dornsife.usc.edu/engl/home/index.cfm</website>
+			<location>Room 403</location>
+		</department>
+		<department>
+			<name>Gender Studies/Humanities</name>
+			<website>http://dornsife.usc.edu/swms/home/</website>
+			<location>Room 422</location>
+		</department>
+		<department>
+			<name>German</name>
+			<website>http://dornsife.usc.edu/german/</website>
+			<location>Room 449</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1235</id>
+		<name>Booth Hall</name>
+		<shortName>BMH</shortName>
+		<lat>34.0227767157132</lat>
+		<lon>-118.284613801523</lon>
+		<address>820 W. 34th Street</address>
+	</Placemark>
+	<Placemark>
+		<id>1236</id>
+		<name>Jeanette MacDonald Recital Hall</name>
+		<shortName>MUS</shortName>
+		<lat>34.0229742282376</lat>
+		<lon>-118.285054000457</lon>
+		<address>840 W. 34th Street</address>
+		<description>The 1,752-square-foot, 100-seat Jeanette MacDonald Recital Hall is the newest facility to join the USC Thornton lineup. This hall is home to the Charles Hirt Choral Lab and provides an intimate venue for student recitals, master classes and choral ensemble performances.</description>
+	</Placemark>
+	<Placemark>
+		<id>1238</id>
+		<name>University Religious Center</name>
+		<shortName>URC</shortName>
+		<lat>34.0233665427459</lat>
+		<lon>-118.284700875399</lon>
+		<address>835 W. 34th St</address>
+		<description>The University Religious Center is headquarters for the USC Office of Religious Life.</description>
+		<department>
+			<name>Office of Religious Life</name>
+			<website>http://orl.usc.edu/</website>
+			<location>Room 106</location>
+		</department>
+	</Placemark>
+	<Placemark>
+		<id>1240</id>
+		<name>United University Church</name>
+		<shortName>UUC</shortName>
+		<lat>34.0231422393221</lat>
+		<lon>-118.284232311757</lon>
+		<address>817 West 34th Street</address>
+		<website>http://www-bcf.usc.edu/~uuchurch/</website>
+		<description>A full-service church where "all are welcome," United University Church is a progressive ecumenical congregation with Methodist and Presbyterian roots. The church offers a number of programs serving members of the USC community, and makes its facilities available for many campus meetings and events, including the USC Thornton Schools� popular �Music at Noon" concerts.</description>
+		<department>
+			<name>Music Services</name>
+			<location>Room 1</location>
+		</department>
+		<department>
+			<name>Community Church</name>
+			<location>Room 2</location>
+		</department>
+		<department>
+			<name>El Centro Chicano</name>
+			<website>http://web-app.usc.edu/scampus/el-centro-chicano/</website>
+			<location>Room 3</location>
+		</department>
+		<department>
+			<name>Senate Office</name>
+			<website>http://www.usc.edu/academe/acsen/AboutUs/bylaws.htm</website>
+			<location>Room 4</location>
+		</department>
+
+	</Placemark>
+</resource>
